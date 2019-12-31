@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>Zh1Cheung.mapper</groupId>
+    <artifactId>ProMyBatis</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>Pro01Mapper</module>
+        <module>Pro02MapperMBG</module>
+        <module>Pro03MapperOfMine</module>
+        <module>Pro04MapperExtends</module>
+        <module>Pro05MapperTypeHandler</module>
+        <module>Pro06MapperPrinciple</module>
+    </modules>
+
+</project>
