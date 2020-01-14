@@ -6,14 +6,9 @@ import com.baomidou.mybatisplus.activerecord.Model;
 import com.baomidou.mybatisplus.annotations.TableName;
 import java.io.Serializable;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author weiyunhui
- * @since 2018-06-21
- */
+
+
+
 @TableName("tbl_employee")
 public class Employee extends Model<Employee> {
 
