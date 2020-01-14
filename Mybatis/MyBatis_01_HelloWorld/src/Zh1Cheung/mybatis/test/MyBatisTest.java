@@ -28,7 +28,6 @@ import Zh1Cheung.mybatis.dao.EmployeeMapper;
  * 					将sql抽取出来。	
  * 
  * 
- * @author lfy
  *
  */
 public class MyBatisTest {
